@@ -1,0 +1,10 @@
+.nav-item {
+  border-left: solid white 1px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.nav-link {
+  color: white;
+}
+

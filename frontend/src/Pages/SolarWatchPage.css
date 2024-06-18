@@ -1,0 +1,30 @@
+.body {
+  overflow: hidden;
+}
+
+.solarWatch-input {
+  width: 20%;
+  border-radius: 5px;
+}
+
+.swInputLabel {
+  margin-left: 0.5em;
+  color: white;
+  font-weight:600;
+  font-size: 1.5em;
+}
+
+.swPage {
+  background-image: "url(/maxresdefault.jpg)";
+  background-size: "cover";
+  background-position: "center";
+  width: "100vw";
+  height: "100vh";
+  margin: 0;
+  padding: 0
+}
+
+.swButton {
+  width: 10%;
+  margin-left: 0.75em;
+}
